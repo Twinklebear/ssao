@@ -1,0 +1,3 @@
+[submodule "framework/external/glt"]
+	path = framework/external/glt
+	url = git@bitbucket.org:Twinklebear/glt.git
