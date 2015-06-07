@@ -1,6 +1,6 @@
 Screen Space Ambient Occlusion
 ===
-This is sort of an implementation of [Scalable Ambient Obscurance] by McGuire et al. however I make
+This is sort of an implementation of [Scalable Ambient Obscurance by McGuire et al.](http://graphics.cs.williams.edu/papers/SAOHPG12/) however I make
 a few simplifying shortcuts in my implementation and don't achieve as good performance or quality.
 I was also unable to get their new recommended estimator to behave so this implementation still uses
 the Alchemy AO estimator initially recommended in the paper. I have a somewhat longer write up
